@@ -1,16 +1,58 @@
-### Hi there 👋
+## 👋 Hi there ##
 
-<!--
-**hch3245/hch3245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="mailto:hch3245@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+</a>
+<a href="#">
+    <img src="https://dcbadge.vercel.app/api/shield/395884319085690881?style=flat"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=hch3245)](https://solved.ac/hch3245)
+
+## 🏷️ Stack ##
+
+### Programming languages ###
+
+<a href="https://dart.dev/">
+    <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
+</a>
+<a href="https://kotlinlang.org">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
+</a>
+<a href="https://www.typescriptlang.org">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+</a>
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white">
+</a>
+<a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+</a>
+<a href="https://java.com">
+    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
+</a>
+<a href="https://php.net">
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
+</a>
+
+### Skills ###
+
+<a href="https://flutter.dev">
+    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
+</a>
+<a href="https://developer.android.com">
+    <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
+</a>
+<a href="https://reactivex.io">
+    <img src="https://img.shields.io/badge/ReactiveX-B7178C?logo=ReactiveX&logoColor=white">
+</a>
+<a href="https://nodejs.org">
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+</a>
+<a href="https://vuejs.org">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white">
+</a>
+<a href="https://aws.amazon.com">
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
+</a>
