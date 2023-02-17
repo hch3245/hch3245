@@ -11,9 +11,9 @@
 
 ### Programming languages ###
 
-<img src="https://img.shields.io/badge/C-#A8B9CC?logo=C&logoColor=white">
-<a href="https://kotlinlang.org">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
+
+<a>
+    <img src="https://img.shields.io/badge/C-#A8B9CC?logo=C&logoColor=white">
 </a>
 <a href="https://www.typescriptlang.org">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
