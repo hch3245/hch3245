@@ -12,16 +12,16 @@
 ### Programming languages ###
 
 <a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
 </a>
 <a>
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo&logo=C%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
 </a>
 <a>
-<img src="https://img.shields.io/badge/C%23-033963?style=plastic&logo&logo=Csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/C%23-033963?style=plastic&logo=Csharp&logoColor=white">
 </a>
 <a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo&logo=Python#&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python#&logoColor=white">
 </a>
 
 
