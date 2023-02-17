@@ -20,21 +20,6 @@
 
 ### Skills ###
 
-<a href="https://flutter.dev">
-    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
-</a>
-<a href="https://developer.android.com">
-    <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
-</a>
-<a href="https://reactivex.io">
-    <img src="https://img.shields.io/badge/ReactiveX-B7178C?logo=ReactiveX&logoColor=white">
-</a>
-<a href="https://nodejs.org">
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-</a>
-<a href="https://vuejs.org">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white">
-</a>
-<a href="https://aws.amazon.com">
-    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
-</a>
+<p>
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=Unity&logoColor=white">
+</p>
