@@ -11,9 +11,7 @@
 
 ### Programming languages ###
 
-<a href="https://dart.dev/">
-    <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/C-#A8B9CC?logo=C&logoColor=white">
 <a href="https://kotlinlang.org">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
 </a>
