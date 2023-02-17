@@ -12,9 +12,8 @@
 ### Programming languages ###
 
 
-<a>
-    <img src="https://img.shields.io/badge/C-#A8B9CC?logo=C&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+
 <a href="https://www.typescriptlang.org">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
 </a>
