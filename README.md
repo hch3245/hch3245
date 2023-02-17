@@ -12,23 +12,10 @@
 ### Programming languages ###
 
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-
-<a href="https://www.typescriptlang.org">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-</a>
-<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white">
-</a>
-<a href="https://python.org">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-</a>
-<a href="https://java.com">
-    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
-</a>
-<a href="https://php.net">
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/C-#A8B9CC?&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-#00599C?&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-#033963?&logo=C#&logoColor=white">
+<img src="https://img.shields.io/badge/Python-#3776AB?&logo=Python#&logoColor=white">
 
 ### Skills ###
 
