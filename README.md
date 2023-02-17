@@ -14,7 +14,6 @@
 
 <img src="https://img.shields.io/badge/C-#A8B9CC?&logo=C&logoColor=white">
 
-
 ### Skills ###
 
 <a href="https://flutter.dev">
