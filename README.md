@@ -13,9 +13,7 @@
 
 
 <img src="https://img.shields.io/badge/C-#A8B9CC?&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++-#00599C?&logo=C++&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-#033963?&logo=C#&logoColor=white">
-<img src="https://img.shields.io/badge/Python-#3776AB?&logo=Python#&logoColor=white">
+
 
 ### Skills ###
 
